@@ -1,0 +1,13 @@
+https://www.analyticsvidhya.com/blog/2019/03/learn-to-use-elmo-to-extract-features-from-text/
+https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/?utm_medium=ELMoNLParticle&utm_source=blog
+https://www.sciencedirect.com/science/article/pii/S1877050919306775
+https://www.academia.edu/40456162/Keyphrase_Extraction_from_Bengali_Document_using_LSTM_Recurrent_Neural_Network
+https://www.politico.eu/article/coronavirus-fake-news-fact-checkers-google-facebook-germany-spain-bosnia-brazil-united-states/
+https://www.marketplace.org/2020/02/12/coronavirus-can-artificial-intelligence-be-smart-enough-to-detect-fake-news/
+https://en.prothomalo.com/opinion/Who-shares-fake-news
+***https://www.thedailystar.net/opinion/perspective/news/fake-news-how-fight-it-1834849
+https://towardsdatascience.com/artificial-intelligence-against-covid-19-an-early-review-92a8360edaba
+https://www.ey.com/en_iq/forensic-integrity-services/how-to-identify-fact-from-fiction-during-the-covid-19-pandemic-and-beyond
+https://apnews.com/dedd5a5f5367b1da634a1e84dbb369ed
+https://www.who.int/bangladesh/emergencies/coronavirus-disease-(covid-19)-update/addressing-myths-and-rumours
